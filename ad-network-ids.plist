@@ -1,0 +1,11 @@
+<array>
+    <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>example100.skadnetwork</string>
+    </dict>
+    <dict>   
+         <key>SKAdNetworkIdentifier</key>
+         <string>example200.skadnetwork</string>
+    </dict>
+</array>
+
