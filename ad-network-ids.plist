@@ -7,5 +7,9 @@
          <key>SKAdNetworkIdentifier</key>
          <string>example200.skadnetwork</string>
     </dict>
+    <dict>   
+         <key>SKAdNetworkIdentifier</key>
+         <string>YCLNXRL5PM.skadnetwork</string>
+    </dict>
 </array>
 
