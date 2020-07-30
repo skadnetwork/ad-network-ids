@@ -10,4 +10,4 @@ As Info.plist entries that can be copy and pasted: [ad-network-ids.plist](ad-net
 
 |Company|Id|Description|
 |-------|--|-----------|
-|[ExampleCo](https://example.com)|2UABCDE123|Example is a mobile DSP|
+|[Jaamp](https://jampp.com)|YCLNXRL5PM|Mobile user acquisition & retargeting DSP|
