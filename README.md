@@ -17,4 +17,4 @@ As Info.plist entries that can be copy and pasted: [ad-network-ids.plist](ad-net
 |Company|Id|Description|
 |-------|--|-----------|
 |[Jampp](https://jampp.com)|YCLNXRL5PM|Mobile user acquisition & retargeting DSP|
-|[remerge](https://www.remerge.com)|2U9PT9HC89|Mobile retargeting DSP|
+|[remerge](https://www.remerge.io)|2U9PT9HC89|Mobile retargeting DSP|
