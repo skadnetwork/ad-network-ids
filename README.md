@@ -17,4 +17,6 @@ As Info.plist entries that can be copy and pasted: [ad-network-ids.plist](ad-net
 |Company|Id|Description|
 |-------|--|-----------|
 |[Jampp](https://jampp.com)|YCLNXRL5PM|Mobile user acquisition & retargeting DSP|
-|[remerge](https://www.remerge.io)|2U9PT9HC89|Mobile retargeting DSP|
+|[Lifestreet](https://lifestreet.com)|T38B2KH725|Programmatic marketing plattform for app developers|
+|[Liftoff](https://liftoff.io)|7UG5ZH24HU|Mobile user acquisition & retargeting DSP|
+|[remerge](https://www.remerge.com)|2U9PT9HC89|Mobile retargeting DSP|
