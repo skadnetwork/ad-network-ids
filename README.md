@@ -22,3 +22,4 @@ As Info.plist entries that can be copy and pasted: [ad-network-ids.plist](ad-net
 |[Lifestreet](https://lifestreet.com)|T38B2KH725|Programmatic marketing plattform for app developers|
 |[Liftoff](https://liftoff.io)|7UG5ZH24HU|Mobile user acquisition & retargeting DSP|
 |[Remerge](https://www.remerge.io)|2U9PT9HC89|Mobile retargeting DSP|
+|[ScaleMonk](https://www.scalemonk.com)|av6w8kgt66|Mobile user acquisition & retargeting DSP|
