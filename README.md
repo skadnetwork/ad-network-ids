@@ -18,7 +18,7 @@ As Info.plist entries that can be copy and pasted: [ad-network-ids.plist](ad-net
 |-------|--|-----------|
 |[Aarki](https://www.aarki.com)|4FZDC2EVR5|Mobile user acquisition & retargeting DSP|
 |[Appreciate](https://appreciate.mobi)|mlmmfzh3r3|Mobile user acquisition & retargeting DSP|
-|[hybrid.ai](https://hybrid.ai)|W9Q455WK68|programmatic In-House solution|
+|[hybrid.ai](https://hybrid.ai)|W9Q455WK68|Programmatic in-house DSP for app developers|
 |[Jampp](https://jampp.com)|YCLNXRL5PM|Mobile user acquisition & retargeting DSP|
 |[Lifestreet](https://lifestreet.com)|T38B2KH725|Programmatic marketing plattform for app developers|
 |[Liftoff](https://liftoff.io)|7UG5ZH24HU|Mobile user acquisition & retargeting DSP|
