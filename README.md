@@ -22,6 +22,11 @@ As Info.plist entries that can be copy and pasted: [ad-network-ids.plist](ad-net
 |[Jampp](https://jampp.com)|YCLNXRL5PM|Mobile user acquisition & retargeting DSP|
 |[Lifestreet](https://lifestreet.com)|T38B2KH725|Programmatic marketing plattform for app developers|
 |[Liftoff](https://liftoff.io)|7UG5ZH24HU|Mobile user acquisition & retargeting DSP|
+|[Persona.ly](https://www.persona.ly)|44jx6755aq|Mobile user acquisition & retargeting DSP|
+|[PubNative](https://pubnative.net)|TL55SBB4FM|Mobile monetization SSP|
 |[Remerge](https://www.remerge.io)|2U9PT9HC89|Mobile retargeting DSP|
 |[ScaleMonk](https://www.scalemonk.com)|av6w8kgt66|Mobile user acquisition & retargeting DSP|
+|[Smadex](https://www.smadex.com)|ppxm28t8ap|Mobile user acquisition & retargeting DSP|
+|[Spyke Media](https://www.spykemedia.com)|44n7hlldy6|Mobile user acquisition|
 |[YouAppi](https://www.youappi.com)|3RD42EKR43|Mobile user acquisition & retargeting DSP|
+
