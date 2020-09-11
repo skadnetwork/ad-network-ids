@@ -5,6 +5,11 @@
         <string>4FZDC2EVR5.skadnetwork</string>
     </dict>
     <dict>
+        <!--- adgoji --->
+        <key>SKAdNetworkIdentifier</key>
+        <string>23zd986j2c.skadnetwork</string>
+    </dict>
+    <dict>
         <!--- Adikteev --->
         <key>SKAdNetworkIdentifier</key>
         <string>YDX93A7ASS.skadnetwork</string>

@@ -17,6 +17,7 @@ As Info.plist entries that can be copy and pasted: [ad-network-ids.plist](ad-net
 |Company|Id|Description|
 |-------|--|-----------|
 |[Aarki](https://www.aarki.com)|4FZDC2EVR5|Mobile user acquisition & retargeting DSP|
+|[adgoji](https://www.adgoji.com)|23zd986j2c|Omnichannel DSP|
 |[Adikteev](https://www.adikteev.com)|YDX93A7ASS|Mobile retargeting DSP|
 |[Appier](https://www.appier.com)|V72QYCH5UU|Full-funnel advertising|
 |[Applift](https://applift.com)|6xzpu9s2p8|Mobile Performance Network|
