@@ -119,5 +119,10 @@
         <key>SKAdNetworkIdentifier</key>
         <string>3RD42EKR43.skadnetwork</string>
     </dict>
+     <dict>
+        <!--- RevX --->
+        <key>SKAdNetworkIdentifier</key>
+        <string>5a6flpkh64.skadnetwork</string>
+    </dict>
 
 </array>
