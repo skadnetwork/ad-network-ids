@@ -1,123 +1,129 @@
-<array>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>SKAdNetworkItems</key>
+    <array>
     <dict>
-        <!--- Aarki --->
+        <!-- Aarki -->
         <key>SKAdNetworkIdentifier</key>
         <string>4FZDC2EVR5.skadnetwork</string>
     </dict>
     <dict>
-        <!--- adgoji --->
+        <!-- adgoji -->
         <key>SKAdNetworkIdentifier</key>
         <string>23zd986j2c.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Adikteev --->
+        <!-- Adikteev -->
         <key>SKAdNetworkIdentifier</key>
         <string>YDX93A7ASS.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Appier --->
+        <!-- Appier -->
         <key>SKAdNetworkIdentifier</key>
         <string>V72QYCH5UU.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Applift --->
+        <!-- Applift -->
         <key>SKAdNetworkIdentifier</key>
         <string>6xzpu9s2p8.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Appreciate --->
+        <!-- Appreciate -->
         <key>SKAdNetworkIdentifier</key>
         <string>mlmmfzh3r3.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Beeswax --->
+        <!-- Beeswax -->
         <key>SKAdNetworkIdentifier</key>
         <string>c6k4g5qg8m.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Criteo --->
+        <!-- Criteo -->
         <key>SKAdNetworkIdentifier</key>
         <string>hs6bdukanm.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Dataseat --->
+        <!-- Dataseat -->
         <key>SKAdNetworkIdentifier</key>
         <string>M8DBW4SV7C.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Hybrid --->
+        <!-- Hybrid -->
         <key>SKAdNetworkIdentifier</key>
         <string>W9Q455WK68.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Jampp --->
+        <!-- Jampp -->
         <key>SKAdNetworkIdentifier</key>
         <string>YCLNXRL5PM.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Kayzen --->
+        <!-- Kayzen -->
         <key>SKAdNetworkIdentifier</key>
         <string>4468km3ulz.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Lifestreet --->
+        <!-- Lifestreet -->
         <key>SKAdNetworkIdentifier</key>
         <string>T38B2KH725.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Liftoff --->
+        <!-- Liftoff -->
         <key>SKAdNetworkIdentifier</key>
         <string>7UG5ZH24HU.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Moloco --->
+        <!-- Moloco -->
         <key>SKAdNetworkIdentifier</key>
         <string>9T245VHMPL.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Persona.ly --->
+        <!-- Persona.ly -->
         <key>SKAdNetworkIdentifier</key>
         <string>44jx6755aq.skadnetwork</string>
     </dict>
     <dict>
-        <!--- PubNative --->
+        <!-- PubNative -->
         <key>SKAdNetworkIdentifier</key>
         <string>TL55SBB4FM.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Remerge --->
+        <!-- Remerge -->
         <key>SKAdNetworkIdentifier</key>
         <string>2U9PT9HC89.skadnetwork</string>
     </dict>
     <dict>
-        <!--- RTB House --->
+        <!-- RTB House -->
         <key>SKAdNetworkIdentifier</key>
         <string>8s468mfl3y.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Sift --->
+        <!-- Sift -->
         <key>SKAdNetworkIdentifier</key>
         <string>KLF5C3L5U5.skadnetwork</string>
     </dict>
     <dict>
-        <!--- ScaleMonk --->
+        <!-- ScaleMonk -->
         <key>SKAdNetworkIdentifier</key>
         <string>av6w8kgt66.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Smadex --->
+        <!-- Smadex -->
         <key>SKAdNetworkIdentifier</key>
         <string>ppxm28t8ap.skadnetwork</string>
     </dict>
     <dict>
-        <!--- Spyke Media --->
+        <!-- Spyke Media -->
         <key>SKAdNetworkIdentifier</key>
         <string>44n7hlldy6.skadnetwork</string>
     </dict>
     <dict>
-        <!--- YouAppi --->
+        <!-- YouAppi -->
         <key>SKAdNetworkIdentifier</key>
         <string>3RD42EKR43.skadnetwork</string>
     </dict>
-
-</array>
+    </array>
+</dict>
+</plist>
