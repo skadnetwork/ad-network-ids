@@ -22,9 +22,15 @@ def entry(name, id)
 end
 
 content = <<~EOF
-  <array>
-  #{skans.map { |v| entry(*v) }.join}
-  </array>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>SKAdNetworkItems</key>
+    <array>
+#{skans.map { |v| entry(*v) }.join}    </array>
+</dict>
+</plist>
 EOF
 
 File.write('ad-network-ids.plist', content)
