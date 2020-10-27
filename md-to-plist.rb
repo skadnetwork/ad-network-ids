@@ -14,7 +14,7 @@ end
 def entry(name, id)
   <<-EOF
     <dict>
-        <!--- #{name} --->
+        <!-- #{name} -->
         <key>SKAdNetworkIdentifier</key>
         <string>#{id}.skadnetwork</string>
     </dict>
