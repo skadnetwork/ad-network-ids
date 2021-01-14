@@ -95,6 +95,11 @@
         <string>2u9pt9hc89.skadnetwork</string>
     </dict>
     <dict>
+        <!-- RevX -->
+        <key>SKAdNetworkIdentifier</key>
+        <string>5a6flpkh64.skadnetwork</string>
+    </dict>
+    <dict>
         <!-- RTB House -->
         <key>SKAdNetworkIdentifier</key>
         <string>8s468mfl3y.skadnetwork</string>

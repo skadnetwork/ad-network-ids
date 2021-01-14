@@ -34,6 +34,7 @@ As Info.plist entries that can be copy and pasted: [ad-network-ids.plist](ad-net
 |[Persona.ly](https://www.persona.ly)|44jx6755aq|Mobile user acquisition & retargeting DSP|
 |[PubNative](https://pubnative.net)|tl55sbb4fm|Mobile monetization SSP|
 |[Remerge](https://www.remerge.io)|2u9pt9hc89|Mobile retargeting DSP|
+|[RevX](https://www.remerge.io)|5a6flpkh64|Self-serve mobile marketing platform|
 |[RTB House](http://www.rtbhouse.com)|8s468mfl3y|Retargeting DSP|
 |[Sift](https://www.sift.co)|klf5c3l5u5|User acquisition DSP|
 |[ScaleMonk](https://www.scalemonk.com)|av6w8kgt66|Mobile user acquisition & retargeting DSP|
