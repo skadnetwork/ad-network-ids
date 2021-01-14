@@ -7,7 +7,7 @@
     <dict>
         <!-- Aarki -->
         <key>SKAdNetworkIdentifier</key>
-        <string>4FZDC2EVR5.skadnetwork</string>
+        <string>4fzdc2evr5.skadnetwork</string>
     </dict>
     <dict>
         <!-- adgoji -->
@@ -17,12 +17,12 @@
     <dict>
         <!-- Adikteev -->
         <key>SKAdNetworkIdentifier</key>
-        <string>YDX93A7ASS.skadnetwork</string>
+        <string>ydx93a7ass.skadnetwork</string>
     </dict>
     <dict>
         <!-- Appier -->
         <key>SKAdNetworkIdentifier</key>
-        <string>V72QYCH5UU.skadnetwork</string>
+        <string>v72qych5uu.skadnetwork</string>
     </dict>
     <dict>
         <!-- Applift -->
@@ -47,17 +47,17 @@
     <dict>
         <!-- Dataseat -->
         <key>SKAdNetworkIdentifier</key>
-        <string>M8DBW4SV7C.skadnetwork</string>
+        <string>m8dbw4sv7c.skadnetwork</string>
     </dict>
     <dict>
         <!-- Hybrid -->
         <key>SKAdNetworkIdentifier</key>
-        <string>W9Q455WK68.skadnetwork</string>
+        <string>w9q455wk68.skadnetwork</string>
     </dict>
     <dict>
         <!-- Jampp -->
         <key>SKAdNetworkIdentifier</key>
-        <string>YCLNXRL5PM.skadnetwork</string>
+        <string>yclnxrl5pm.skadnetwork</string>
     </dict>
     <dict>
         <!-- Kayzen -->
@@ -67,17 +67,17 @@
     <dict>
         <!-- Lifestreet -->
         <key>SKAdNetworkIdentifier</key>
-        <string>T38B2KH725.skadnetwork</string>
+        <string>t38b2kh725.skadnetwork</string>
     </dict>
     <dict>
         <!-- Liftoff -->
         <key>SKAdNetworkIdentifier</key>
-        <string>7UG5ZH24HU.skadnetwork</string>
+        <string>7ug5zh24hu.skadnetwork</string>
     </dict>
     <dict>
         <!-- Moloco -->
         <key>SKAdNetworkIdentifier</key>
-        <string>9T245VHMPL.skadnetwork</string>
+        <string>9t245vhmpl.skadnetwork</string>
     </dict>
     <dict>
         <!-- Persona.ly -->
@@ -87,12 +87,12 @@
     <dict>
         <!-- PubNative -->
         <key>SKAdNetworkIdentifier</key>
-        <string>TL55SBB4FM.skadnetwork</string>
+        <string>tl55sbb4fm.skadnetwork</string>
     </dict>
     <dict>
         <!-- Remerge -->
         <key>SKAdNetworkIdentifier</key>
-        <string>2U9PT9HC89.skadnetwork</string>
+        <string>2u9pt9hc89.skadnetwork</string>
     </dict>
     <dict>
         <!-- RTB House -->
@@ -102,7 +102,7 @@
     <dict>
         <!-- Sift -->
         <key>SKAdNetworkIdentifier</key>
-        <string>KLF5C3L5U5.skadnetwork</string>
+        <string>klf5c3l5u5.skadnetwork</string>
     </dict>
     <dict>
         <!-- ScaleMonk -->
@@ -122,7 +122,7 @@
     <dict>
         <!-- YouAppi -->
         <key>SKAdNetworkIdentifier</key>
-        <string>3RD42EKR43.skadnetwork</string>
+        <string>3rd42ekr43.skadnetwork</string>
     </dict>
     </array>
 </dict>
