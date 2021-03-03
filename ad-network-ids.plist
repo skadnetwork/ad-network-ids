@@ -80,6 +80,11 @@
         <string>9t245vhmpl.skadnetwork</string>
     </dict>
     <dict>
+        <!-- MYAPPFREE -->
+        <key>SKAdNetworkIdentifier</key>
+        <string>cad8qz2s3j.skadnetwork</string>
+    </dict>
+    <dict>
         <!-- Persona.ly -->
         <key>SKAdNetworkIdentifier</key>
         <string>44jx6755aq.skadnetwork</string>
