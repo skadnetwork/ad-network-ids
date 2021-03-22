@@ -40,5 +40,5 @@ As Info.plist entries that can be copy and pasted: [ad-network-ids.plist](ad-net
 |[ScaleMonk](https://www.scalemonk.com)|av6w8kgt66|Mobile user acquisition & retargeting DSP|
 |[Smadex](https://www.smadex.com)|ppxm28t8ap|Mobile user acquisition & retargeting DSP|
 |[Spyke Media](https://www.spykemedia.com)|44n7hlldy6|Mobile user acquisition|
+|[Thing Or Two](https://www.thing02.com)|6964rsfnh4|Mobile user acquisition|
 |[YouAppi](https://www.youappi.com)|3rd42ekr43|Mobile user acquisition & retargeting DSP|
-
