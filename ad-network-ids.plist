@@ -45,6 +45,11 @@
         <string>hs6bdukanm.skadnetwork</string>
     </dict>
     <dict>
+        <!-- Curate Mobile -->
+        <key>SKAdNetworkIdentifier</key>
+        <string>52fl2v3hgk.skadnetwork</string>
+    </dict>
+    <dict>
         <!-- Dataseat -->
         <key>SKAdNetworkIdentifier</key>
         <string>m8dbw4sv7c.skadnetwork</string>
