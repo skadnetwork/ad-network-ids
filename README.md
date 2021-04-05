@@ -24,6 +24,7 @@ As Info.plist entries that can be copy and pasted: [ad-network-ids.plist](ad-net
 |[Appreciate](https://appreciate.mobi)|mlmmfzh3r3|Mobile user acquisition & retargeting DSP|
 |[Beeswax](https://beeswax.com)|c6k4g5qg8m|Bidder-as-a-Service|
 |[Criteo](https://www.criteo.com/)|hs6bdukanm|Retargeter|
+|[Curate Mobile](https://www.curatemobile.com/)|52fl2v3hgk|Mobile user acquisition & retargeting DSP|
 |[Dataseat](https://dataseat.com)|m8dbw4sv7c|In-House programmatic buying platform|
 |[Hybrid](https://hybrid.ai)|w9q455wk68| Mobile user acquisition & retargeting DSP|
 |[Jampp](https://jampp.com)|yclnxrl5pm|Mobile user acquisition & retargeting DSP|
