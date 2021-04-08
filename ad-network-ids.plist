@@ -85,6 +85,11 @@
         <string>cad8qz2s3j.skadnetwork</string>
     </dict>
     <dict>
+        <!-- Oplytic -->
+        <key>SKAdNetworkIdentifier</key>
+        <string>75zv8rjcnv.skadnetwork</string>
+    </dict>
+    <dict>
         <!-- Persona.ly -->
         <key>SKAdNetworkIdentifier</key>
         <string>44jx6755aq.skadnetwork</string>

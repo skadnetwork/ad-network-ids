@@ -32,6 +32,7 @@ As Info.plist entries that can be copy and pasted: [ad-network-ids.plist](ad-net
 |[Liftoff](https://liftoff.io)|7ug5zh24hu|Mobile user acquisition & retargeting DSP|
 |[Moloco](http://www.molocoads.com)|9t245vhmpl|User acquisition & retargeting DSP|
 |[MYAPPFREE](http://www.myappfree.com)|cad8qz2s3j|Mobile user acquisition & Self-serve mobile marketing platform|
+|[Oplytic](http://www.oplytic.com)|75zv8rjcnv|Mobile user acquisition & performance network|
 |[Persona.ly](https://www.persona.ly)|44jx6755aq|Mobile user acquisition & retargeting DSP|
 |[PubNative](https://pubnative.net)|tl55sbb4fm|Mobile monetization SSP|
 |[Remerge](https://www.remerge.io)|2u9pt9hc89|Mobile retargeting DSP|
