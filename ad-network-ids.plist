@@ -139,6 +139,11 @@
         <key>SKAdNetworkIdentifier</key>
         <string>3rd42ekr43.skadnetwork</string>
     </dict>
+    <dict>
+        <!-- Appalgo -->
+        <key>SKAdNetworkIdentifier</key>
+        <string>2q884k2j68.skadnetwork</string>
+    </dict>
     </array>
 </dict>
 </plist>
