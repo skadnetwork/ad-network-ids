@@ -125,6 +125,11 @@
         <string>ppxm28t8ap.skadnetwork</string>
     </dict>
     <dict>
+        <!-- SmartyAds -->
+        <key>SKAdNetworkIdentifier</key>
+        <string>74b6s63p6l.skadnetwork</string>
+    </dict>
+    <dict>
         <!-- Spyke Media -->
         <key>SKAdNetworkIdentifier</key>
         <string>44n7hlldy6.skadnetwork</string>
